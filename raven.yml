@@ -1,11 +1,14 @@
 questions:
   - is it raven
   - is it really raven
+  - can this be merged
+  - is this ready to merge
+  - merge?
 
 so_raven:
-  - It's so raven
-  - So so raven
-  - Really raven
+  - It's so raven, ready to merge
+  - So so raven, ready to merge
+  - Really raven, ready to merge
 
 not_raven_squash:
   - Oh, snap! squanch em
